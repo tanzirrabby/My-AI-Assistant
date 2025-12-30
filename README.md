@@ -107,14 +107,14 @@ State Management: Streamlit Session State + JSON Storage
 
  Cloud-based memory storage
 
-🤝 Connect
+## 🤝 Connect
 
-Created by MD.Tanzir Hossain
-
-![LinkedIn](www.linkedin.com/in/tanzirrabby)
+Created by **MD. Tanzir Hossain**  
+[LinkedIn](https://www.linkedin.com/in/tanzirrabby/)
 
 
 ⭐ If you find this project useful, don’t forget to give it a star on GitHub!
+
 
 
 
