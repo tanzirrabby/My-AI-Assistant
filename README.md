@@ -111,7 +111,9 @@ State Management: Streamlit Session State + JSON Storage
 
 Created by MD.Tanzir Hossain
 
-[LinkedIn](https://www.linkedin.com/in/tanzirrabby)
+![LinkedIn](https://www.linkedin.com/in/tanzirrabby)
+
 
 ⭐ If you find this project useful, don’t forget to give it a star on GitHub!
+
 
