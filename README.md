@@ -1,4 +1,4 @@
-# 🧠 Tanzisstant – Modular Intelligent Assistant
+#  Tanzisstant – Modular Intelligent Assistant
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-UI-red)
@@ -111,6 +111,7 @@ State Management: Streamlit Session State + JSON Storage
 
 Created by MD.Tanzir Hossain
 
-LinkedIn: www.linkedin.com/in/tanzirrabby
+[LinkedIn](https://www.linkedin.com/in/tanzirrabby)
 
 ⭐ If you find this project useful, don’t forget to give it a star on GitHub!
+
